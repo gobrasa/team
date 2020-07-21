@@ -13,4 +13,12 @@ juntamente com o papel de gerenciar o time tanto quando pensando em curto prazo 
 Os ``analistas`` estão na hierarquia do time e todos estão no mesmo nível de hierarquia, sempre tendo liberdade para propor coisas novas e poder trazer coisas novas para o time.
 Há diferentes tipos de analistas, mas os principais atualmente são: ``Analista de dados``, ``Analista de front-end``, ``Analista de back-end``, ``Analista de DevOps``, ``Analista de testes``.
 
+# Informações que não dependem da posição
+
+Independentemente da posição no time de tech, devemos estão sempre alinhados que as posições refletem a área na qual devemos nos especializar 
+dentro do time de tech, mas não impede que outras pessoas realizem as tarefas da sua área. No fundo, o time de tech é um time colaborativo que busca sempre realizar 
+os projetos da melhor forma possível. Inclusive com os colaboradores externos (que estão nos outros times).
+
+É super importante estar à par do nosso mindset (está pinado no nosso GitHub) e programar, desenvolver ideias e trabalhos criativos a partir de tais pontos.
+
 ## Para mais informações, siga a página de cada posição
